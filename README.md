@@ -1,7 +1,7 @@
 # neconoa.f5.si
 
 ![](https://img.shields.io/uptimerobot/status/m787979705-dedee70ce3309167bafdd585?label=Port%20Status)
-![mc.yohane.su](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fmc.yohane.su%3Fport%3D25565)
+![neconoa.f5.si](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fmc.yohane.su%3Fport%3D25565)
 
 my minecraft server
 
